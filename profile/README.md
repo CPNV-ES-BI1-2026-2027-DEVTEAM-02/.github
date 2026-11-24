@@ -41,6 +41,8 @@ The architecture encourages:
 
 ### High-level architecture
 
+![Schema](bi-overview-schema-team02.png)
+
 ### Roadmap
 
 * [Sprint 1](./sprint01.md)
