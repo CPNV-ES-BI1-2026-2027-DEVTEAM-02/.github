@@ -34,7 +34,7 @@
 Dans le dossier load du bucket avoir une transaction SQL pouvant être utilisée plus tard pour la base de données
 
 ## Durée du sprint
-Jusqu'au 1 Décembre
+Jusqu'au 3 Décembre
 
 ## DoD
 L'orchestrator reçoit et attend bien le retour de chaque job avant d'effectuer le prochain et se termine en fin de processus
